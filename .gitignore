@@ -9,5 +9,3 @@ venv/
 project_filebrowser.db*
 Thumbs.db
 .DS_Store
-# Existing empty repository scaffold; retain locally.
-/Machine_Learning of python/
